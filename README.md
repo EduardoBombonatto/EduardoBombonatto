@@ -69,4 +69,4 @@ I have a background in **Computer Engineering at UTFPR** and specialize in build
 
 ---
 
-⭐ If you like my work, consider starring a repository.
+⭐ If you like my work, consider starring a repository!
