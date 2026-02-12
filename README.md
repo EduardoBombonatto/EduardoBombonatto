@@ -1,56 +1,44 @@
-# Hi 👋, I'm Eduardo
+# Hi 👋, I'm Eduardo Bombonatto
 
-🚀 **Backend & AI Developer | Java, Python & TypeScript** 🇧🇷 Brazil
+🚀 **Software Engineer | Backend & AI Specialist** 🇧🇷 Brazil
 
-I focused on delivering **real value to companies** while continuously evolving as a professional. I strive for technical excellence and consistent career growth, balancing impact with self-development.
-
-I have a background in **Computer Engineering at UTFPR** and specialize in building robust backend systems and integrating Artificial Intelligence solutions.
+Software Engineer focused on building scalable, high-performance systems and integrating AI solutions. I have extensive experience in the **Java/Spring** ecosystem, refactoring complex architectures, and optimizing critical business processes.
 
 ---
 
-## 🌐 Where to find me
+## 🛠️ Technical Skills
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/eduardo-bombonatto">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eduardobomonattolorenzetti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- **Languages & Frameworks:** Java (Spring Boot), Python (FastAPI, LangChain), TypeScript, SQL.
+- **Architecture & Design:** Microservices, RESTful APIs, SOLID, Clean Architecture, DDD, Event-Driven Architecture.
+- **Databases:** PostgreSQL, MySQL, Redis, Query Optimization.
+- **Infrastructure & Tools:** Docker, AWS (EC2, S3, RDS), RabbitMQ, Git, Maven, JUnit, Mockito.
+- **Agile & Management:** SCRUM, Kanban, OpenAPI (Swagger).
 
 ---
 
-## 🧠 What I do
+## 💼 Professional Experience
 
-- 🏗️ **Backend Architecture** (Microservices & Monoliths)
-- 🤖 **AI Agents & Integrations** (LLMs, RAG)
-- ⚡ **API Development** (REST & Fast Data)
-- 🧩 **Process Automation** (Workflows & Pipelines)
-- ☁️ **Cloud Computing** (Stable and Scalable)
-- 🎓 **Continuous Learning** & Professional Development
+### **Software Engineer @ FTSpar** *(Aug 2023 – Dec 2025)*
+* **Performance Optimization:** Reduced API response times by **30%** through SQL refactoring and Spring Boot caching.
+* **System Stability:** Decreased production bugs by **25%** using advanced debugging and JUnit/Mockito testing.
+* **Architecture Migration:** Led the transition from monoliths to **Microservices** using Docker and SOLID principles.
+* **Efficiency:** Accelerated deploy cycles by **15%** through Maven automation and Git standardization.
+* **Scalability:** Developed features supporting a **20% increase** in data volume using DDD and PostgreSQL.
+
+### **Freelancer Software Engineer @ Fiverr** *(Jan 2021 – Aug 2022)*
+* Developed and deployed multiple scalable REST APIs and full-stack systems.
+* Consulted on tech stack definition and relational database modeling with a focus on **Clean Code**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-### Languages
+### 🔍 **Uptime Monitor & Audit System**
+* *Tech: Java, Spring Boot, PostgreSQL*
+* Continuous monitoring system for service availability and log auditing to ensure system integrity and tech updates.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks & Libraries
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### AI & Automation
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+### 🤖 **AI & Automation**
+* Expertise in building **AI Agents** (LLMs, RAG) using **LangChain** and automating complex workflows with **n8n**.
 
 ---
 
@@ -63,10 +51,17 @@ I have a background in **Computer Engineering at UTFPR** and specialize in build
 
 ---
 
-## 🚀 Philosophy
+## 🌐 Connect with me
 
-> *"My goal is to deliver tangible value to businesses while evolving as a better professional every day."*
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduardo-bombonatto">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:eduardobomonattolorenzetti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ If you like my work, consider starring a repository!
+> *"Delivering tangible value to businesses through technical excellence and continuous evolution."*
