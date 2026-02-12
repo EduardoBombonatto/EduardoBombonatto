@@ -42,8 +42,8 @@ Software Engineer focused on building scalable, high-performance systems and int
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EduardoBombonatto&show_icons=true&theme=tokyonight&count_private=true" alt="Eduardo's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBombonatto&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoBombonatto&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBombonatto&layout=compact&theme=tokyonight" />
 </p>
 
 ---
