@@ -37,16 +37,13 @@ Software Engineer focused on building scalable, high-performance systems and int
 * *Tech: Java, Spring Boot, PostgreSQL*
 * Continuous monitoring system for service availability and log auditing to ensure system integrity and tech updates.
 
-### 🤖 **AI & Automation**
-* Expertise in building **AI Agents** (LLMs, RAG) using **LangChain** and automating complex workflows with **n8n**.
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoBombonatto&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBombonatto&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EduardoBombonatto&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBombonatto&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -65,3 +62,5 @@ Software Engineer focused on building scalable, high-performance systems and int
 ---
 
 > *"Delivering tangible value to businesses through technical excellence and continuous evolution."*
+
+⭐ If you like my work, consider starring a repository!
