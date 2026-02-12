@@ -18,7 +18,7 @@ Software Engineer focused on building scalable, high-performance systems and int
 
 ## 💼 Professional Experience
 
-### **Software Engineer @ FTSpar** *(Aug 2023 – Dec 2025)*
+### **Software Engineer @ FTSpar** *(Aug 2022 – Dec 2025)*
 * **Performance Optimization:** Reduced API response times by **30%** through SQL refactoring and Spring Boot caching.
 * **System Stability:** Decreased production bugs by **25%** using advanced debugging and JUnit/Mockito testing.
 * **Architecture Migration:** Led the transition from monoliths to **Microservices** using Docker and SOLID principles.
