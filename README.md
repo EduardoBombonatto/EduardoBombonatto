@@ -1,57 +1,94 @@
-# Hi 👋, I'm Eduardo Bombonatto
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=143478&height=120&section=header&text=Eduardo%20Bombonatto&fontSize=40&fontColor=ffffff"/>
 
-🚀 **Software Engineer | Backend & AI Specialist** 🇧🇷 Brazil
+### Olá, eu sou o Eduardo Bombonatto! 👋
 
-Software Engineer focused on building scalable, high-performance systems and integrating AI solutions. I have extensive experience in the **Java/Spring** ecosystem, refactoring complex architectures, and optimizing critical business processes.
+Sou graduando em **Engenharia de Computação na UTFPR** e pós-graduando em **Engenharia de Software pela USP ESALQ**. **Engenheiro de Sofware Backend** que gera valor tangível, combino boas práticas de arquitetura com as inovações mais recentes para criar **soluções escaláveis ​​e eficientes**. Focado em impacto nos negócios e soluções reais.
 
----
-
-## 🛠️ Technical Skills
-
-- **Languages & Frameworks:** Java (Spring Boot), Python (FastAPI, LangChain), TypeScript, SQL.
-- **Architecture & Design:** Microservices, RESTful APIs, SOLID, Clean Architecture, DDD, Event-Driven Architecture.
-- **Databases:** PostgreSQL, MySQL, Redis, Query Optimization.
-- **Infrastructure & Tools:** Docker, AWS (EC2, S3, RDS), RabbitMQ, Git, Maven, JUnit, Mockito.
-- **Agile & Management:** SCRUM, Kanban, OpenAPI (Swagger).
+* 🔭 **Atualmente:** Desenvolvendo o MVP da **TGT**, um ecossistema de marketplace para buscar empresas próximas a você.
+* 🎯 **Foco Técnico:** Especialista em sistemas com **Java**, arquitetura de sistemas com **Micro Serviços** e manipulação de dados geoespaciais com **Uber H3** em Java.
+* 💡 Apaixonado por transformar regras de negócio complexas em sistemas rápidos e escaláveis.
 
 ---
 
-## 💼 Professional Experience
+### 💻 Tecnologias e Ferramentas
 
-### **Software Engineer @ FTSpar** *(Aug 2022 – Dec 2025)*
-* **Performance Optimization:** Reduced API response times by **30%** through SQL refactoring and Spring Boot caching.
-* **System Stability:** Decreased production bugs by **25%** using advanced debugging and JUnit/Mockito testing.
-* **Architecture Migration:** Led the transition from monoliths to **Microservices** using Docker and SOLID principles.
-* **Efficiency:** Accelerated deploy cycles by **15%** through Maven automation and Git standardization.
-* **Scalability:** Developed features supporting a **20% increase** in data volume using DDD and PostgreSQL.
+Minha stack combina o poder do Java para backend robusto com a flexibilidade do Python.
 
-### **Freelancer Software Engineer @ Fiverr** *(Jan 2021 – Aug 2022)*
-* Developed and deployed multiple scalable REST APIs and full-stack systems.
-* Consulted on tech stack definition and relational database modeling with a focus on **Clean Code**.
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 **Uptime Monitor & Audit System**
-* *Tech: Java, Spring Boot, PostgreSQL*
-* Continuous monitoring system for service availability and log auditing to ensure system integrity and tech updates.
-
----
-
-## 🌐 Connect with me
-
+**Backend - Languages & Frameworks:**
 <p align="left">
-  <a href="https://www.linkedin.com/in/eduardo-bombonatto">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,fastapi" alt="Java, Spring, Maven, Python, Django, FastApi"/>
   </a>
-  <a href="mailto:eduardobombonattolorenzetti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
+**Databases - SLQ & NoSQL:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,hibernate,redis,dynamodb,mongodb" alt="PostgreSQL, MySQL, SQLite, Hibernate, Redis, DynamoDB, MongoDB"/>
+  </a>
+</p>
+
+**UI/UX & Frontend:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css" alt="React, JavaScript, TypeScript, HTML, CSS"/>
+  </a>
+</p>
+
+**Cloud & DevOps:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,git,github,githubactions" alt="AWS, GCP, Azure, Docker, Linux, Git, GitHub"/>
+  </a>
+</p>
+
+**Ferramentas & Workflow:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,redhat,ubuntu,grafana,rabbitmq" alt="IntelliJ, VS Code, Postman, RedHat, Ubuntu, Grafana, RabbitMQ"/>
   </a>
 </p>
 
 ---
 
-> *"Delivering tangible value to businesses through technical excellence and continuous evolution."*
+### 🚀 Projetos e Iniciativas
 
-⭐ If you like my work, consider starring a repository!
+* **Geospatial Company Finder (H3)**
+    * **O que é:** Implementação em Java utilizando a biblioteca H3 da Uber para consultas geoespaciais eficientes de empresas próximas.
+    * **Destaques:** Foco em performance de busca geográfica e indexação espacial.
+    * **Stack:** Java, Spring Boot, PostgreSQL, Redis, H3 uber.
+
+
+* **Resume Matcher (MVP)**
+    * **O que é:** Agente de IA para profissionais colocarem a vaga e o currículo para analisar se falta palavras chave e terem maiores chances de serem chamados para entrevistas.
+    * **Stack:** Python, LangChain, PostgreSQL (pgvector), Java, Spring Boot.
+
+* **Academic Projects (UTFPR / USP)**
+    * Repositórios focados em algoritmos, arquitetura de software e sistemas distribuídos desenvolvidos durante a graduação e o MBA.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=EduardoBombonatto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EduardoBombonatto&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+<h2 align="center">🌐 Conecte-se Comigo</h2>
+
+<p align="center">
+  <a href="https://github.com/EduardoBombonatto" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eduardobombonatto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EduardoBombonatto&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
+</p>
