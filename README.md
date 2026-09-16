@@ -1,30 +1,51 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=143478&height=120&section=header&text=Eduardo%20Bombonatto&fontSize=40&fontColor=ffffff"/>
 
-### Olá, eu sou o Eduardo Bombonatto! 👋
+### Hi there, I'm Eduardo Bombonatto! 👋
 
-Sou graduando em **Engenharia de Computação na UTFPR** e pós-graduando em **Engenharia de Software pela USP ESALQ**. **Engenheiro de Sofware Backend** que gera valor tangível, combino boas práticas de arquitetura com as inovações mais recentes para criar **soluções escaláveis ​​e eficientes**. Focado em impacto nos negócios e soluções reais.
+I believe the best software architecture is the one the user never notices: it scales silently, creates no operational bottlenecks, and drives the business forward.
 
-* 🔭 **Atualmente:** Desenvolvendo o MVP da **TGT**, um ecossistema de marketplace para buscar empresas próximas a você.
-* 🎯 **Foco Técnico:** Especialista em sistemas com **Java**, arquitetura de sistemas com **Micro Serviços** e manipulação de dados geoespaciais com **Uber H3** em Java.
-* 💡 Apaixonado por transformar regras de negócio complexas em sistemas rápidos e escaláveis.
+I am a **Software Engineer** specializing in back-end development and high-availability systems. I hold a degree in **Computer Engineering (UTFPR)** and am currently pursuing an MBA in **Software Engineering (USP ESALQ)**. I combine clean architecture practices with modern innovations to create **scalable and efficient solutions**, always focusing on real business impact.
+
+* 🔭 **Currently Working On:** Building the MVP for **TGT**, a geospatial marketplace ecosystem to connect users with nearby businesses.
+* 🎯 **Technical Focus:** Backend ecosystems with **Java & Spring Boot**, **Microservices** architecture, and high-performance APIs.
+* 💡 **Philosophy:** Transforming complex business rules into fast, scalable, and maintainable software.
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 🏢 Professional Experience
 
-Minha stack combina o poder do Java para backend robusto com a flexibilidade do Python.
+* **Software Engineer @ Certto Telecom**
+  * Achieved high observability and rapid incident response for ZTE network equipment by completely restructuring and modernizing the NOC project algorithms.
+  * Enhanced risk assessment accuracy and streamlined the financial onboarding process by implementing a comprehensive credit analysis integration for B2B and B2C clients.
+  * Improved page load performance and system scalability by redesigning the support sector's architecture following Clean Architecture principles.
+
+* **Software Engineer @ FTSpar (FastFrete)**
+  * Modernized the ecosystem architecture by extracting monolithic modules into modern and clean architecture using **Java and Docker**.
+  * Accelerated critical API response times by **30%** via PostgreSQL query refactoring and Redis caching implementations.
+  * Integrated back-end systems with government APIs (CNH/RENAVAM), reducing driver and fleet onboarding time drastically.
+  
+* **Tech Consultant & Freelance Software Engineer**
+  * Developed a full-stack internal **ERP** for retailers, automating manual processes (tax calculation, inventory, payroll, and dashboards).
+  * Standardized front-end development and improved UI/UX for legacy enterprise systems by implementing a scalable Design System via Figma.
+  * Acted as a technical consultant defining software architectures, modeling relational databases, and implementing Clean Code practices.
+    
+---
+
+### 💻 Technologies & Tools
+
+My stack combines the robustness of Java/Scala for the backend with the flexibility of Python for AI/Data integrations.
 
 **Backend - Languages & Frameworks:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,fastapi" alt="Java, Spring, Maven, Python, Django, FastApi"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,scala,python,django,fastapi" alt="Java, Spring, Scala, Python, Django, FastApi"/>
   </a>
 </p>
 
-**Databases - SLQ & NoSQL:**
+**Databases - SQL & NoSQL:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,hibernate,redis,dynamodb,mongodb" alt="PostgreSQL, MySQL, SQLite, Hibernate, Redis, DynamoDB, MongoDB"/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,dynamodb,mongodb" alt="PostgreSQL, MySQL, Redis, DynamoDB, MongoDB"/>
   </a>
 </p>
 
@@ -38,37 +59,42 @@ Minha stack combina o poder do Java para backend robusto com a flexibilidade do 
 **Cloud & DevOps:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,git,github,githubactions" alt="AWS, GCP, Azure, Docker, Linux, Git, GitHub"/>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,githubactions" alt="AWS, GCP, Docker, Linux, Git, GitHub, GitHub Actions"/>
   </a>
 </p>
 
-**Ferramentas & Workflow:**
+**Tools & Workflow:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,redhat,ubuntu,grafana,rabbitmq" alt="IntelliJ, VS Code, Postman, RedHat, Ubuntu, Grafana, RabbitMQ"/>
+    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,redhat,ubuntu,grafana" alt="IntelliJ, VS Code, Postman, RedHat, Ubuntu, Grafana"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Projetos e Iniciativas
+### 🚀 Featured Projects
 
-* **Geospatial Company Finder (H3)**
-    * **O que é:** Implementação em Java utilizando a biblioteca H3 da Uber para consultas geoespaciais eficientes de empresas próximas.
-    * **Destaques:** Foco em performance de busca geográfica e indexação espacial.
-    * **Stack:** Java, Spring Boot, PostgreSQL, Redis, H3 uber.
+* **[Visoris Full-Stack Platform](https://github.com/EduardoBombonatto/VISORIS_BACKEND)**
+    * **Overview:** A complete full-stack web application featuring a robust backend API and a dynamic, responsive frontend interface.
+    * **Links:** [Backend Repository](https://github.com/EduardoBombonatto/VISORIS_BACKEND) | [Frontend Repository](https://github.com/EduardoBombonatto/VISORIS_FRONTEND)
+    * **Highlights:** Built with Clean Architecture, RESTful API design, and modern UI/UX principles for seamless data management.
+    * **Stack:** Scala, Http4s, React, TypeScript, PostgreSQL, MinIO.
 
+* **[Scalable URL Shortener](https://github.com/EduardoBombonatto/UrlShortener)**
+    * **Overview:** A high-performance URL shortener service designed for fast redirects and efficient link management.
+    * **Highlights:** Focus on low latency, scalable system design, and optimized data persistence.
+    * **Stack:** Java, Spring Boot, PostgreSQL, Redis.
 
-* **Resume Matcher (MVP)**
-    * **O que é:** Agente de IA para profissionais colocarem a vaga e o currículo para analisar se falta palavras chave e terem maiores chances de serem chamados para entrevistas.
-    * **Stack:** Python, LangChain, PostgreSQL (pgvector), Java, Spring Boot.
+* **[Resume Matcher](https://github.com/EduardoBombonatto/resume-matcher-springboot)**
+    * **Overview:** AI agent designed to match resumes against job descriptions, analyzing missing keywords to increase interview rates for professionals.
+    * **Stack:** Python, LangChain, PostgreSQL, Java, Spring Boot.
 
-* **Academic Projects (UTFPR / USP)**
-    * Repositórios focados em algoritmos, arquitetura de software e sistemas distribuídos desenvolvidos durante a graduação e o MBA.
+* **Academic & Architectural Projects (UTFPR / USP)**
+    * Repositories focused on data structures, software architecture, and distributed systems developed during my Engineering degree and MBA.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=EduardoBombonatto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -78,7 +104,7 @@ Minha stack combina o poder do Java para backend robusto com a flexibilidade do 
 
 ---
 
-<h2 align="center">🌐 Conecte-se Comigo</h2>
+<h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
   <a href="https://github.com/EduardoBombonatto" target="_blank">
@@ -90,5 +116,5 @@ Minha stack combina o poder do Java para backend robusto com a flexibilidade do 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EduardoBombonatto&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=EduardoBombonatto&style=flat-square&color=0077B5" alt="Profile Views Counter"/>
 </p>
