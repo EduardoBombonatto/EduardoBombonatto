@@ -63,13 +63,13 @@ My stack combines the robustness of Java/Scala for the backend with the flexibil
   <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
-**Mensageria & Streaming:**
+**Messaging & Streaming:**
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
 </p>
 
-**Testes & Build:**
+**Testing & Build:**
 <p align="left">
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="Pytest"/>
